@@ -1,0 +1,22 @@
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  margin: 1em;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 1em;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+button {
+  color: darkblue;
+  background-color: antiquewhite;
+  border-style: hidden;
+  padding: 5px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+}
